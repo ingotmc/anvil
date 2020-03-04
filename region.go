@@ -5,7 +5,7 @@ import (
 	"compress/zlib"
 	"encoding/binary"
 	"errors"
-	"gitlab.com/guglicap/gomcsrv/pkg/nbt"
+	"gitlab.com/ingotmc/nbt"
 	"io"
 	"io/ioutil"
 )
